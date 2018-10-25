@@ -26,7 +26,7 @@ $ time gbs build
 ```
 
 
-# Reference
+# References
 * https://source.tizen.org/ (for platform developers)
 * https://developer.tizen.org/ (for application developers)
 * https://craftroom.tizen.org/ (for IoT developers)
