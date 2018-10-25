@@ -17,6 +17,7 @@ FUNCTION(print_list)
 ENDFUNCTION()  
 print_list(${TAOS_CI_FILES})
 
+
 # Install script files for automated pull request test and webhook controller
 INSTALL(DIRECTORY
        ${PROJECT_SOURCE_DIR}/ci
